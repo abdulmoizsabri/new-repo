@@ -7,3 +7,4 @@ def fibonacci(n):
 
 # Print first 10 Fibonacci numbers
 fibonacci(10)
+fibonacci(10)
